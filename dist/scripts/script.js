@@ -1,0 +1,1 @@
+function ಠ_ಠ154(ಠ_ಠ155,ಠ_ಠ156){return Math.floor(Math.random()*(ಠ_ಠ156-ಠ_ಠ155+1))+ಠ_ಠ155}
